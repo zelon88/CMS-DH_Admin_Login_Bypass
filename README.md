@@ -1,6 +1,7 @@
 BACKGROUND
 --------------------
 
+
 CMS-DH is an old generic application created for resale, probably by
 Dahua or one of it's divisions. It is used to control Digimerge security cameras.
 Now Flir owns Digimerge and everybody wants to forget this software exists. 
@@ -24,12 +25,17 @@ and it hangs all it's secrets out there in the open.
 GAINING ACCESS
 --------------------
 
+
 This hack was tested to work with.....
 
 App Version: 1.8.8.24
+
 Service Version: 1.8.8.10
+
 Codec Version: 3.0.2.3
+
 Download Dll Version: 3.0.0.1
+
 
 .....Although I'm not sure of a way to find this info until you log in at least once.
 
@@ -58,6 +64,7 @@ screen.
 
 STEALING CREDENTIALS
 --------------------
+
 
 We know that an attacker can wipe out the cached password from CMS-DH and that it will completely skip
 the login screen. An attacker can leverage this to gain access to DVR's we don't have authorization 
