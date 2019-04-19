@@ -38,7 +38,7 @@ STEALING CREDENTIALS
 --------------------
 
 
-We know that an attacker can wipe out the cached password from CMS-DH and that it will completely skip the login screen. An attacker can leverage this to gain access to DVR's we don't have authorization to by obtaining a copy of someone else's CMS-DH config directory. Because all the config data for devices are stored in the CMS-DH config directory, a successful attacker would have everything they need to log into gain unauthorized access to a local security system. 
+We know that an attacker can wipe out the cached password from CMS-DH and that it will completely skip the login screen. An attacker can leverage this to gain access to DVR's they shouldn't have authorization to by obtaining a copy of someone else's CMS-DH config directory. Because all the config data for devices are stored in the CMS-DH config directory, a successful attacker would have everything they need to log into gain unauthorized access to a local security system. 
 
 Possible attack vectors for stealing the directory include.....
 
